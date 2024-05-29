@@ -2,6 +2,6 @@ Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: my.unique-template
+      BucketName: my.unique-temp
       VersioningConfiguration:
         Status: Enabled
